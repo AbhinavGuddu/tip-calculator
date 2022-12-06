@@ -17,6 +17,7 @@ body{
     border: 5px solid var(--primary-color);
     padding: 20px 40px;
     border-radius: 5px;
+    height :100%;
 }
 
 
